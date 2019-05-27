@@ -28,11 +28,8 @@ export default {
 }
 .sidemenu{
   float: left;
-  width: 20%;
+  width: 100%;
 }
-.content{
-  float: left;
-  width: 80%;
-}
+
 
 </style>

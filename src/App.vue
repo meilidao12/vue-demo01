@@ -6,7 +6,8 @@
 
 <script>
 import FirstPage from './components/FirstPage'
-
+import VueRouter from 'vue-router'
+Vue.use(VueRouter)
 export default {
   name: 'App',
   components:{
