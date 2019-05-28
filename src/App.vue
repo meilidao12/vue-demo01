@@ -7,7 +7,6 @@
 <script>
 import FirstPage from './components/FirstPage'
 
-Vue.use(VueRouter)
 export default {
   name: 'App',
   components:{
