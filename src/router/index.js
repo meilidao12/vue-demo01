@@ -3,7 +3,7 @@ import Router from 'vue-router'
 import FirstPage from '@/components/FirstPage'
 import Home from '@/components/Home'
 import News from '@/components/News'
-import { homedir } from 'os';
+import SideMenu from '@/components/SideMenu'
 Vue.use(Router)
 
 export default new Router({

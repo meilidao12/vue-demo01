@@ -1,7 +1,7 @@
 <template>
 <div>
     <ul>
-        <li><router-link to="demo1">第一页</router-link></li>
+        <li><a href="#">第一页</a></li>
         <li><a href="#">第二页</a></li>
         <li><a href="#">第三页</a></li>
     </ul>
@@ -11,12 +11,10 @@
 
 
 <script>
-import demo from './demo'
+
 
 export default {
-    components:{
-        demo1:demo
-    }
+
 }
 </script>
 
